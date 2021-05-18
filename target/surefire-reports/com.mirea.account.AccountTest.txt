@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: com.mirea.account.AccountTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 1.86 sec <<< FAILURE!
+Then My account has 40 rubles(Scenario: Withdrawing money from your account)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.Exception: Test not passed
+	at com.mirea.account.StepDefinitions.my_account_has_rubles(StepDefinitions.java:37)
+	at ?.Then My account has 40 rubles(src/test/java/resources/account.feature:7)
+
+Scenario: Withdrawing money from your account  Time elapsed: 0 sec  <<< ERROR!
+java.lang.Exception: Test not passed
+	at com.mirea.account.StepDefinitions.my_account_has_rubles(StepDefinitions.java:37)
+	at ?.Then My account has 40 rubles(src/test/java/resources/account.feature:7)
+

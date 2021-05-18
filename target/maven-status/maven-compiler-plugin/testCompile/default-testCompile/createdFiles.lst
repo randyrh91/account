@@ -1,0 +1,4 @@
+com\mirea\account\StepDefinitions.class
+com\mirea\account\ExtractTest.class
+com\mirea\account\AccountTest.class
+com\mirea\account\DepositTest.class
